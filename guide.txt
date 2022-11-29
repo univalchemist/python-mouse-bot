@@ -1,0 +1,4 @@
+pip install pynput
+Press `s` to start tracking keyboard and mouse
+Press `s` again to pause tracking keyboard and mouse
+Press `e` or CTRL + `c` to stop running
